@@ -3,7 +3,8 @@
     "options": [
       "4x-AnimeSharp",
       "4x-UltraSharp",
-      "4x-WTP-UDS-Esrgan",
+      "4x-UltraSharpV2",
+      "4x-WTP-UDS-Esrgan",  
       "4x_NMKD-Siax_200k",
       "4x_RealisticRescaler_100000_G",
       "4x_foolhardy_Remacri",

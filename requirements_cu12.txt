@@ -11,5 +11,6 @@ tensorrt-cu12==10.13.3.9
 tensorrt-cu12-libs==10.13.3.9
 tensorrt-cu12-bindings==10.13.3.9
 cuda-toolkit>=12.8.0,<13.0.0
+cuda-python>=12.8.0,<13.0.0
 polygraphy
 requests

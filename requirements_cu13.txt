@@ -15,3 +15,4 @@ tensorrt_cu13==10.15.1.29
 tensorrt_cu13_bindings==10.15.1.29
 tensorrt_cu13_libs==10.15.1.29
 cuda-toolkit>=13.0.0,<13.1.0
+cuda-python>=13.0.0,<13.1.0
